@@ -8,5 +8,3 @@ trying git revert command
 _________________________
 
 testing feature branch
-
-master and feature test
