@@ -9,4 +9,8 @@ _________________________
 
 testing feature branch
 
+
 added new line to try conflicts solving
+
+add some changes to feature
+
