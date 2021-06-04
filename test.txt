@@ -8,3 +8,5 @@ trying git revert command
 _________________________
 
 testing feature branch
+
+added new line to try conflicts solving
