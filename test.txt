@@ -4,5 +4,3 @@ learning git
 editing via web in github
 
 add text to test git gui
-trying git revert command
-_________________________
